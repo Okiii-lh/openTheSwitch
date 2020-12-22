@@ -20,3 +20,5 @@ https://github.com/coneypo/Dlib_face_recognition_from_camera
 本文只有控制舵机的代码，人脸识别算法可看上面同学的代码
 Communication文件夹为测试代码
 control文件夹中是舵机控制代码，也就是树莓派中执行的脚本核心代码
+
+videos文件夹中是演示视频
