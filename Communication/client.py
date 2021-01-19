@@ -16,7 +16,7 @@ class Client(object):
         """
         self.from_port = 9090
         self.to_addr = '192.168.1.181'
-        self.to_port = 9090
+        self.to_port = 9999
         self.sender = None
         self.msg_data = None
 
